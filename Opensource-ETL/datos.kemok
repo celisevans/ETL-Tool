@@ -1,0 +1,12 @@
+metabase: http://bacgt.kemok.tech
+usuario: dev3@kemok.io
+calve: 742Na$3nKmin0
+
+#Conexion Laboratorios Bagó
+#conn = psycopg2.connect(dbname='bago', host='66.228.57.151', user='bago', password='810b031cc14af02f4fb05b5fdcb44701')
+
+#Conexion Creditos
+#conn = psycopg2.connect(dbname='creditos', host='dev-metabase.cg9u5bhsoxjc.us-east-1.rds.amazonaws.com', user='kemokdev', password='dc067f8a150df19383bc33d7ac9032f7')
+
+
+
